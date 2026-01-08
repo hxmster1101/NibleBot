@@ -1,5 +1,5 @@
 {
-  "name": "nibble-bot",
+  "name": "Nibble Bot",
   "version": "1.0.0",
   "description": "Discord bot 24/7 on Render",
   "main": "index.js",
