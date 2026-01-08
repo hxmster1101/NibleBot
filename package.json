@@ -1,0 +1,18 @@
+{
+  "name": "nibble-bot",
+  "version": "1.0.0",
+  "description": "Discord bot 24/7 on Render",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
+  
